@@ -16,6 +16,11 @@ University Courses and MOOCS
 
 * [Brown - Introduction to Computer Vision](http://cs.brown.edu/courses/cs143/)
 
+* [Real time Detection of Lane Markers in Urban Streets] (http://www.vision.caltech.edu/malaa/publications/aly08realtime.pdf)
+
+* [Lane detection and tracking using B-Snake] (http://www1.i2r.a-star.edu.sg/~ywang/papers/IVC_lane%20detection%20and%20tracking%20using%20bsnake.pdf)
+
+
 
 Books
 -----
