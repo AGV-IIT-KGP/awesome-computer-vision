@@ -27,7 +27,6 @@ Books
   Richard Szeliski
 
 Research Papers
-
 -----
 
 * [Real time Detection of Lane Markers in Urban Streets] (http://www.vision.caltech.edu/malaa/publications/aly08realtime.pdf)
