@@ -16,7 +16,7 @@ University Courses and MOOCS
 
 * [Brown - Introduction to Computer Vision](http://cs.brown.edu/courses/cs143/)
 
-* [Udacity - Introduction to Computer Vision]
+* [Udacity - Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 
 
